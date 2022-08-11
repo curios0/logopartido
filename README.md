@@ -1,1 +1,2 @@
-# logopartido
+# partidologo
+ 
