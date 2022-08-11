@@ -23,6 +23,9 @@ img{
 }
 img:hover::after{
     Content:"Juventude Distrital Setubal";
+    Position: absolute;
+    Top: 0px;
+    Left: 0px;
     Width: 100%;
     Color: white;
     Font-size: 12px;
