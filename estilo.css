@@ -20,6 +20,7 @@ img{
     width: 0px;
     margin-top: 5px;
     animation: barra 0.7s forwards 1.7s;
+    z-index: -1;
 }
 img:hover::after{
     Content:"Juventude Distrital Setubal";
