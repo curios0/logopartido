@@ -21,6 +21,11 @@ img{
     margin-top: 5px;
     animation: barra 0.7s forwards 1.7s;
 }
+img:hover::after{
+    Content:"Juventude Distrital Setubal";
+    Color: white;
+    Font-size: 12px;
+}
 div#logo{
     width: 500px;
     height: 200px;
