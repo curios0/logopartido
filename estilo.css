@@ -9,7 +9,7 @@ section{
     left:50%;
     transform: translate(-50%,-50%);
 }
-#rect:hover, h2::before{
+#rect:hover::before{
     Content:"ola";
     Position: absolute;
     Top: -150px;
